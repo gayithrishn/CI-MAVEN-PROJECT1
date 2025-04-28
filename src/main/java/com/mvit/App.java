@@ -10,16 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("progran executed successfully");
-        System.out.println("this is my first jenkins CI pipeline");
-        for(int i=1;i<=10;i++)
-        {
-            if(i==4)
-            {
-                continue;
-            }
-
-            System.out.println(i);
-        }
-        System.out.println("out of the loops executed successfully");
+        System.out.println("this is devops lab 6th program");
     }
 }
